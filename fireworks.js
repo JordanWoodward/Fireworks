@@ -2,7 +2,7 @@ let head = document.getElementsByTagName('HEAD')[0];
 let link = document.createElement('link');
 link.rel = 'stylesheet';
 link.type = 'text/css';
-link.href = 'http://trad-monitor-2/webstart/support/fireworks.css';
+link.href = 'https://jordanwoodward.github.io/Fireworks/fireworks.css';
 head.appendChild(link);
 
 var interval = setInterval(function() {
